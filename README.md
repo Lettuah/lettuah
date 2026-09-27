@@ -36,7 +36,7 @@ I build applications end-to-end, with a focus on <b>Flutter</b>, <b>Laravel</b>,
 
 **Fintech & Integrations**
 
-`Payment APIs` `Wallet Systems` `Transaction Processing` `KYC / KYB` `Identity Verification` `Liveness Detection` ``
+`Payment APIs` `Wallet Systems` `Transaction Processing` `KYC / KYB` `Identity Verification` `Liveness Detection`
 
 **Tools & Infrastructure**
 
@@ -46,13 +46,13 @@ I build applications end-to-end, with a focus on <b>Flutter</b>, <b>Laravel</b>,
 
 ### 💻 What I Enjoy Building
 
-- **Fintech applications** — payment flows, wallets, transaction processing and financial APIs
-- **Mobile applications** — Flutter and React Native applications with clean, maintainable architecture
-- **Backend systems** — Laravel and Django APIs, authentication, business logic and database design
-- **Identity & verification** — KYC/KYB workflows, biometric verification and liveness detection
-- **Logistics & delivery platforms** — shipment management, maps, location tracking, delivery workflows and doorstep fulfillment
-- **Third-party integrations** — payment providers, authentication services, notifications and external APIs
-- **Admin & business platforms** — dashboards, management systems and operational tools
+* **Fintech applications** — payment flows, wallets, transaction processing and financial APIs
+* **Mobile applications** — Flutter and React Native applications with clean, maintainable architecture
+* **Backend systems** — Laravel and Django APIs, authentication, business logic and database design
+* **Identity & verification** — KYC/KYB workflows, biometric verification and liveness detection
+* **Logistics & delivery platforms** — shipment management, maps, location tracking, delivery workflows and doorstep fulfillment
+* **Third-party integrations** — payment providers, authentication services, notifications and external APIs
+* **Admin & business platforms** — dashboards, management systems and operational tools
 
 ---
 
@@ -66,19 +66,20 @@ I care about building software that is:
 * **Scalable** — systems designed to handle growth without unnecessary complexity
 * **User-focused** — functionality that solves real problems rather than adding unnecessary complexity
 
-I also enjoy taking a product from **idea → architecture → implementation → deployment**.
+I enjoy taking a product from **idea → architecture → implementation → deployment**.
 
 ---
 
 ### 🎓 Background
 
-- **B.Sc. Computer Science**
+**B.Sc. Computer Science**
 CGPA: **4.72 / 5.00**
-- **HND - Electronics and Telecommunication**
-CGPA: **3.80 ? 4.00**
-- **ND - Electrical and Electronics Engineering**
-CGPA: **3.72 / 5.00**
 
+**HND — Electronics & Telecommunication**
+CGPA: **3.80 / 4.00**
+
+**ND — Electrical & Electronics Engineering**
+CGPA: **3.72 / 5.00**
 
 **Full-stack Developer**
 Flutter · React Native · Laravel · Django · Fintech
