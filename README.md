@@ -24,22 +24,22 @@ Wallets, KYC verification, bill payments — the parts that have to work correct
 `Flutter` `Dart` `Stacked (MVVM)` `Hive` `Firebase / FCM` `Google ML Kit` `Shorebird OTA`
 
 **Backend**
-`Laravel` `Livewire` `MySQL` `REST APIs` `Paystack / Monnify` `Browsershot`
+`Laravel` `Livewire` `MySQL` `REST APIs` `NodeJs`
 
 **Fintech & Identity**
-`KYC / Liveness` `AWS Rekognition` `Prembly` `NIN / BVN Verification` `Wallet Systems` `Idempotency`
+`KYC / Liveness` `KYB`
 
 ---
 
 ### 🚀 Selected work
 
-| Project | Focus | Highlights |
-|---|---|---|
-| **Lunaze** | Fintech · KYC | Liveness-detection flow, wallet & deposit systems, Stacked MVVM architecture |
-| **Kikstarpay** | Payments & bills | Push notifications, Google/Apple sign-in, biometric security PIN, shipped to App Store |
-| **AlayoPay** | Fintech platform | Multi-vendor bill payments on Laravel, race-condition-safe wallet & transaction systems, admin panel |
-| **HangleDating** | Social product | Subscriptions, social-media validation, custom UI component library |
-| **Socially** | Community platform | Ticket-filtering system, KYC verification flows, Stacked architecture |
+| Focus | Highlights |
+|---|---|
+| Fintech · KYC | Liveness-detection flow, wallet & deposit systems, Stacked MVVM architecture |
+ | Payments & bills | Push notifications, Google/Apple sign-in, biometric security PIN, shipped to App Store |
+| Fintech platform | Multi-vendor bill payments on Laravel, race-condition-safe wallet & transaction systems, admin panel |
+ | Social product | Subscriptions, social-media validation, custom UI component library |
+| Community platform | Ticket-filtering system, KYC verification flows, Stacked architecture |
 
 ---
 
