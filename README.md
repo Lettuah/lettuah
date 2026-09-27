@@ -72,11 +72,11 @@ I also enjoy taking a product from **idea → architecture → implementation �
 
 ### 🎓 Background
 
-**B.Sc. Computer Science — First Class**
+- **B.Sc. Computer Science**
 CGPA: **4.72 / 5.00**
-**HND - Electronics and Telecommunication**
+- **HND - Electronics and Telecommunication**
 CGPA: **3.80 ? 4.00**
-**ND - Electrical and Electronics Engineering**
+- **ND - Electrical and Electronics Engineering**
 CGPA: **3.72 / 5.00**
 
 
