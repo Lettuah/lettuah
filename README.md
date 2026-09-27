@@ -36,11 +36,11 @@ I build applications end-to-end, with a focus on <b>Flutter</b>, <b>Laravel</b>,
 
 **Fintech & Integrations**
 
-`Payment APIs` `Wallet Systems` `Transaction Processing` `KYC / KYB` `Identity Verification` `Liveness Detection`
+`Payment APIs` `Wallet Systems` `Transaction Processing` `KYC / KYB` `Identity Verification` `Liveness Detection` ``
 
 **Tools & Infrastructure**
 
-`Git` `GitHub` `Vite` `Firebase` `Shorebird` `Postman`
+`Git` `GitHub` `Vite` `Firebase` `Shorebird` `Postman` `Google Cloud`
 
 ---
 
@@ -74,6 +74,11 @@ I also enjoy taking a product from **idea → architecture → implementation �
 
 **B.Sc. Computer Science — First Class**
 CGPA: **4.72 / 5.00**
+**HND - Electronics and Telecommunication**
+CGPA: **3.80 ? 4.00**
+**ND - Electrical and Electronics Engineering**
+CGPA: **3.72 / 5.00**
+
 
 **Full-stack Developer**
 Flutter · React Native · Laravel · Django · Fintech
