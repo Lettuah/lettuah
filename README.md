@@ -46,13 +46,14 @@ I build applications end-to-end, with a focus on <b>Flutter</b>, <b>Laravel</b>,
 
 ### 💻 What I Enjoy Building
 
-* **Fintech applications** — payment flows, wallets, transaction processing and financial APIs
-* **Mobile applications** — Flutter and React Native applications with clean, maintainable architecture
-* **Backend systems** — Laravel and Django APIs, authentication, business logic and database design
-* **Identity & verification** — KYC/KYB workflows, biometric verification and liveness detection
-* **Logistics & delivery platforms** — shipment management, maps, location tracking, delivery workflows and doorstep fulfillment
-* **Third-party integrations** — payment providers, authentication services, notifications and external APIs
-* **Admin & business platforms** — dashboards, management systems and operational tools
+- **Fintech applications** — payment flows, wallets, transaction processing and financial APIs
+- **Mobile applications** — Flutter and React Native applications with clean, maintainable architecture
+- **Backend systems** — Laravel and Django APIs, authentication, business logic and database design
+- **Identity & verification** — KYC/KYB workflows, biometric verification and liveness detection
+- **Logistics & delivery platforms** — shipment management, maps, location tracking, delivery workflows and doorstep fulfillment
+- **Social & community platforms** — social networking, dating platforms, user profiles, discovery, messaging and engagement features
+- **Third-party integrations** — payment providers, authentication services, notifications and external APIs
+- **Admin & business platforms** — dashboards, management systems and operational tools
 
 ---
 
@@ -91,6 +92,16 @@ Flutter · React Native · Laravel · Django · Fintech
 Most of my professional work is developed for private companies and clients, so I intentionally keep proprietary product details and implementation specifics private.
 
 Where appropriate, I'm happy to discuss my experience, technical responsibilities, architecture decisions, and engineering approach directly.
+
+---
+
+### 🌱 Continuous Learning
+
+I believe good developers never stop learning.
+
+I continuously explore new technologies, frameworks, tools and engineering practices, and I'm always willing to learn whatever is necessary to solve a problem effectively.
+
+Whether it's a new programming language, framework, architecture, API, cloud service or unfamiliar domain, I'm comfortable learning from scratch and turning that knowledge into something practical.
 
 ---
 
