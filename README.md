@@ -1,53 +1,92 @@
 <h1 align="center">Hi, I'm Abdullateef Adedapo Adegboye 👋</h1>
-<h3 align="center">Full-stack developer for products that move real money</h3>
+
+<h3 align="center">Full-stack developer building reliable digital products</h3>
 
 <p align="center">
-I build fintech apps end-to-end — <b>Flutter</b> on mobile, <b>Laravel</b> on the backend.
-Wallets, KYC verification, bill payments — the parts that have to work correctly the first time.
+I build applications end-to-end, with a focus on <b>Flutter</b>, <b>Laravel</b>, APIs, payments, identity verification, and scalable backend systems.
 </p>
 
 <p align="center">
-📍 Lagos, Nigeria &nbsp;·&nbsp; 🟢 Open to remote & contract work
+📍 Lagos, Nigeria
 </p>
 
 <p align="center">
-  <a href="mailto:Latiphad4u@gmail.com"><img src="https://img.shields.io/badge/Email-Latiphad4u%40gmail.com-4F3CC9?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/Latiphad4u"><img src="https://img.shields.io/badge/LinkedIn-Latiphad4u-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://wa.me/2347069702626"><img src="https://img.shields.io/badge/WhatsApp-%2B234%20706%20970%202626-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="mailto:Latiphad4u@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Latiphad4u%40gmail.com-4F3CC9?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/Latiphad4u">
+    <img src="https://img.shields.io/badge/LinkedIn-Latiphad4u-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me/2347069702626">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B234%20706%20970%202626-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
 </p>
 
 ---
 
-### 🧰 What I build with
+### 🧰 Tech Stack
 
-**Mobile**
-`Flutter` `Dart` `Stacked (MVVM)` `Hive` `Firebase / FCM` `Google ML Kit` `Shorebird OTA`
+**Mobile Development**
 
-**Backend**
-`Laravel` `Livewire` `MySQL` `REST APIs` `NodeJs` `Python/Django`
+`Flutter` `Dart` `React Native` `Stacked / MVVM` `Hive` `Firebase` `FCM` `Google ML Kit`
 
-**Fintech & Identity**
-`KYC , KYB, LivenessCheck`
+**Backend Development**
+
+`Laravel` `PHP` `Python` `Django` `Node.js` `MySQL` `REST APIs`
+
+**Fintech & Integrations**
+
+`Payment APIs` `Wallet Systems` `Transaction Processing` `KYC / KYB` `Identity Verification` `Liveness Detection`
+
+**Tools & Infrastructure**
+
+`Git` `GitHub` `Vite` `Firebase` `Shorebird` `Postman`
 
 ---
 
-### 🚀 Selected work
+### 💻 What I Enjoy Building
 
-| Focus | Highlights |
-|---|---|
-| Fintech · KYC | Liveness-detection flow, wallet & deposit systems, Stacked MVVM architecture |
- | Payments & bills | Push notifications, Google/Apple sign-in, biometric security PIN, shipped to App Store |
-| Fintech platform | Multi-vendor bill payments on Laravel, race-condition-safe wallet & transaction systems, admin panel |
- | Social product | Subscriptions, social-media validation, custom UI component library |
-| Community platform | Ticket-filtering system, KYC verification flows, Stacked architecture |
+* **Fintech applications** — payment flows, wallets, transaction processing and financial APIs
+* **Mobile applications** — Flutter and React Native applications with clean, maintainable architecture
+* **Backend systems** — Laravel and Django APIs, authentication, business logic and database design
+* **Identity & verification** — KYC/KYB workflows, biometric verification and liveness detection
+* **Third-party integrations** — payment providers, authentication services, notifications and external APIs
+* **Admin & business platforms** — dashboards, management systems and operational tools
+
+---
+
+### 🏗️ Engineering Approach
+
+I care about building software that is:
+
+* **Reliable** — especially when dealing with financial transactions and sensitive operations
+* **Maintainable** — clean architecture and reusable components
+* **Secure** — authentication, authorization and careful handling of sensitive data
+* **Scalable** — systems designed to handle growth without unnecessary complexity
+* **User-focused** — functionality that solves real problems rather than adding unnecessary complexity
+
+I also enjoy taking a product from **idea → architecture → implementation → deployment**.
 
 ---
 
 ### 🎓 Background
 
-- 🏫 B.Sc. Computer Science — **First Class** (4.72/5.00)
-- 💼 Full-stack developer, Flutter · React Native · Laravel · Fintech
+**B.Sc. Computer Science — First Class**
+CGPA: **4.72 / 5.00**
+
+**Full-stack Developer**
+Flutter · React Native · Laravel · Django · Fintech
 
 ---
 
-<p align="center"><sub>Abdullateef Adedapo Adegboye — Lagos, Nigeria</sub></p>
+### 📌 About My Work
+
+Most of my professional work is developed for private companies and clients, so I intentionally keep proprietary product details and implementation specifics private.
+
+Where appropriate, I'm happy to discuss my experience, technical responsibilities, architecture decisions, and engineering approach directly.
+
+---
+
+<p align="center">
+  <sub>Abdullateef Adedapo Adegboye · Lagos, Nigeria</sub>
+</p>
