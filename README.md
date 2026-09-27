@@ -46,12 +46,13 @@ I build applications end-to-end, with a focus on <b>Flutter</b>, <b>Laravel</b>,
 
 ### 💻 What I Enjoy Building
 
-* **Fintech applications** — payment flows, wallets, transaction processing and financial APIs
-* **Mobile applications** — Flutter and React Native applications with clean, maintainable architecture
-* **Backend systems** — Laravel and Django APIs, authentication, business logic and database design
-* **Identity & verification** — KYC/KYB workflows, biometric verification and liveness detection
-* **Third-party integrations** — payment providers, authentication services, notifications and external APIs
-* **Admin & business platforms** — dashboards, management systems and operational tools
+- **Fintech applications** — payment flows, wallets, transaction processing and financial APIs
+- **Mobile applications** — Flutter and React Native applications with clean, maintainable architecture
+- **Backend systems** — Laravel and Django APIs, authentication, business logic and database design
+- **Identity & verification** — KYC/KYB workflows, biometric verification and liveness detection
+- **Logistics & delivery platforms** — shipment management, maps, location tracking, delivery workflows and doorstep fulfillment
+- **Third-party integrations** — payment providers, authentication services, notifications and external APIs
+- **Admin & business platforms** — dashboards, management systems and operational tools
 
 ---
 
