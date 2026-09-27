@@ -32,7 +32,7 @@ I build applications end-to-end, with a focus on <b>Flutter</b>, <b>Laravel</b>,
 
 **Backend Development**
 
-`Laravel` `PHP` `Python` `Django` `Node.js` `MySQL` `REST APIs`
+`Laravel` `PHP` `Python` `Django` `Node.js` `MySQL` `REST APIs` `Supabase` `Firestore`
 
 **Fintech & Integrations**
 
