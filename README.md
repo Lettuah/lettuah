@@ -24,10 +24,10 @@ Wallets, KYC verification, bill payments — the parts that have to work correct
 `Flutter` `Dart` `Stacked (MVVM)` `Hive` `Firebase / FCM` `Google ML Kit` `Shorebird OTA`
 
 **Backend**
-`Laravel` `Livewire` `MySQL` `REST APIs` `NodeJs`
+`Laravel` `Livewire` `MySQL` `REST APIs` `NodeJs` `Python/Django`
 
 **Fintech & Identity**
-`KYC / Liveness` `KYB`
+`KYC , KYB, LivenessCheck`
 
 ---
 
@@ -46,9 +46,7 @@ Wallets, KYC verification, bill payments — the parts that have to work correct
 ### 🎓 Background
 
 - 🏫 B.Sc. Computer Science — **First Class** (4.72/5.00)
-- 💼 Full-stack developer, Flutter · Laravel · Fintech
-- 🛂 Also serve as a public officer with the Nigeria Immigration Service — building software alongside a full-time public service role
-- 🌐 Portfolio: *(add your deployed site link here)*
+- 💼 Full-stack developer, Flutter · React Native · Laravel · Fintech
 
 ---
 
